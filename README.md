@@ -1,4 +1,11 @@
 ### Hi there 👋
+Nice to E-meet you!! I'm Tay3052.
+So I wanna be engineer of fullstacks.
+Recently I often use React flamework.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tay3052&theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Tay3052)
 
 <!--
 **Tay3052/Tay3052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
