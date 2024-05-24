@@ -7,7 +7,7 @@ Recently I often use React framework.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tay3052&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tay3052&theme=default)
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,java,)
 
 <!--
 **Tay3052/Tay3052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
