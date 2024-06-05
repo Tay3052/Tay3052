@@ -7,8 +7,7 @@ Recently I often use React framework.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tay3052&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tay3052&theme=default)
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,java,nordjs)
-![](https://skillicons.dev/icons?i=discord,figma,github,gmail,)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,java,nordjs,discord,figma,github,gmail,
 ![](https://skillicons.dev/icons?i=docker,vercel,django,flask,react,nextjs,postgresql,prisma,raspberrypi,vscode)
 
 <!--
