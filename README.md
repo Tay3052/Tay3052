@@ -1,7 +1,7 @@
 ### Hi there 👋
 Nice to E-meet you!! I'm Tay3052.
 So I wanna be engineer of fullstacks.
-Recently I often use React framework.
+Recently I often use React and NEXT.JS frameworks.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tay3052&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tay3052&theme=default)
