@@ -10,6 +10,7 @@ Recently I often use React and Next.js frameworks.
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,java,nodejs,discord,figma,github,gmail,)
 ![](https://skillicons.dev/icons?i=docker,vercel,django,flask,react,nextjs,postgresql,prisma,raspberrypi,vscode)
 
+
 <!--
 **Tay3052/Tay3052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
